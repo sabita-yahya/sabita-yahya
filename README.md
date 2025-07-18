@@ -1,5 +1,5 @@
-## Hi 👋, I'm Sabita Yahya
-#### A passionate Full Stack Developer from Indonesia
+# <center> Hi 👋, I'm Sabita Yahya </center>
+#### <center> A passionate Full Stack Developer from Indonesia </center>
 ![coding gift](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb28xZGFzcXBvcmdkZm5kMWJ6cGY0Mm1zZDN6eTZudGJjaG14ZWxuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
 <!--
