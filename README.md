@@ -1,5 +1,6 @@
-# <center> Hi 👋, I'm Sabita Yahya </center>
-#### <center> A passionate Full Stack Developer from Indonesia </center>
+<h1 align="center">Hi 👋, I'm Sabita Yahya</h1>
+<h3 align="center">I'am still Learning Full Stack Developer</h3>
+
 ![coding gift](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb28xZGFzcXBvcmdkZm5kMWJ6cGY0Mm1zZDN6eTZudGJjaG14ZWxuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
 <!--
