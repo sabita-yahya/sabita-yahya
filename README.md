@@ -29,3 +29,10 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,postman,nodejs,express,react,tailwind,laravel,git,bash,npm,github)](https://skillicons.dev)
+
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sabita-yahya&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sabita-yahya&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabita-yahya&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
