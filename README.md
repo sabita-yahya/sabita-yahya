@@ -18,5 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about Full Stack Developer
+- 🌱 I’m currently learning Full Stack Developer
 - 📫 How to reach me [yahyasabita@gmail.com](yahyasabita@gmail.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/b.sabitaa" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="b.sabitaa"/></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,mongodb,postman,nodejs,express,react,tailwind,laravel,git,bash,npm,github)](https://skillicons.dev)
