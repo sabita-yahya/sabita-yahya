@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋, I'm Sabita Yahya
+#### A passionate Full Stack Developer from Indonesia
+![coding gift](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb28xZGFzcXBvcmdkZm5kMWJ6cGY0Mm1zZDN6eTZudGJjaG14ZWxuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)
 
 <!--
 **sabita-yahya/sabita-yahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning about Full Stack Developer
+- 📫 How to reach me [yahyasabita@gmail.com](yahyasabita@gmail.com)
