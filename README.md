@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Full Stack Developer
 - 📫 How to reach me [yahyasabita@gmail.com](yahyasabita@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
